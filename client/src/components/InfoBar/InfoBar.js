@@ -5,6 +5,7 @@ import closeIcon from '../../icons/closeIcon.png';
 
 import './InfoBar.css';
 
+// eslint-disable-next-line react/prop-types
 const InfoBar = ({ room }) => (
   <div className="infoBar">
     <div className="leftInnerContainer">
